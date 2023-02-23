@@ -1,0 +1,27 @@
+1. type the following in the terminal before building the project:
+
+npm install
+npm install sass
+npm install firebase
+npm install uuid
+npm install react-router-dom
+
+2. After installing all dependencies, you may type:
+
+npm start
+
+3. How to login?
+
+you may use the account the following account: 
+
+user@gmail.com
+password
+
+test@gmail.com
+password
+
+4. To start a conversation, the user should search for the username and click enter
+
+5. Click on the user result and 
+6. Start a conversation
+
